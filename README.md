@@ -5,8 +5,8 @@
 ---
 
 ## Features
-- **Piggybacking** action, enabling players to carry others on their back.
-- **Carrying** action, allowing players to pick up and carry others in specific animations.
+- **Piggybacking** action, enabling players to carry others on their back (/piggyback).
+- **Carrying** action, allowing players to pick up and carry others in specific animations (/carry).
 - Synchronizes all actions (carrying, piggybacking) between players in real-time.
 - **Automatic cleanup** of actions when a player disconnects from the server.
 - **Customizable animations** for carrying and piggybacking.
